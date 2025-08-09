@@ -999,7 +999,7 @@ def create_main_demo_ui(
     ) as demo:
         gr.Markdown(
             """
-            <h1 style="text-align: center;">Monaarch: A Step Towards Advane Music Generation Model</h1>
+            <h1 style="text-align: center;">Monaarch: A Step Towards Advance Music Generation Model</h1>
         """
         )
         with gr.Tab("text2music"):
