@@ -995,11 +995,11 @@ def create_main_demo_ui(
     load_data_func=dump_func,
 ):
     with gr.Blocks(
-        title="ACE-Step Model 1.0 DEMO",
+        title="Monaarch Model 1.0 DEMO",
     ) as demo:
         gr.Markdown(
             """
-            <h1 style="text-align: center;">ACE-Step: A Step Towards Music Generation Foundation Model</h1>
+            <h1 style="text-align: center;">Monaarch: A Step Towards Music Generation Foundation Model</h1>
         """
         )
         with gr.Tab("text2music"):
